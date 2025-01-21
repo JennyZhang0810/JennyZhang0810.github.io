@@ -13,5 +13,5 @@ I am a member of the [Center for Future Media](https://cfm.uestc.edu.cn/index) a
 
 [Email](mailto:202421080308@std.uestc.edu.cn) / [Github](https://jennyzhang0810.github.io/) / [CSDN](https://blog.csdn.net/qq_53826699?spm=1000.2115.3001.5343)
 
-![Metrics](https://metrics.lecoq.io/JennyZhang0810?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+[Metrics](https://metrics.lecoq.io/JennyZhang0810?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
