@@ -7,6 +7,13 @@ redirect_from:
   - /about.html
 ---
 
+I'm a first-year graduate student from the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/). My research interests include computer vision, image generation, and image processing.
+
+I am a member of the [Center for Future Media](https://cfm.uestc.edu.cn/index) at UESTC and am very fortunate to be advised by [Prof. Yang Yang](https://cfm.uestc.edu.cn/~yangyang/) and [Prof. Wang Guoqing](https://scholar.google.com.hk/citations?hl=zh-CN&user=V08v5OEAAAAJ) from the School of Computer Science and Engineering, UESTC.
+
+[Email](mailto:202421080308@std.uestc.edu.cn) / [Github](https://jennyzhang0810.github.io/) / [CSDN](https://blog.csdn.net/qq_53826699?spm=1000.2115.3001.5343)
+
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
